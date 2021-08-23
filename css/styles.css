@@ -11,6 +11,12 @@ h1 {
   font-size: 3rem;
   line-height: 1.5;
 }
+h2{
+  font: 'Montserrat';
+  font-weight: 900;
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
 
 .added-margin {
   margin-bottom: 7rem;
@@ -68,3 +74,17 @@ h1 {
 .feature-img:hover{
   color: #ff4c68;
 }
+
+/*Testimonial section */
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  padding: 7% 15% ;
+  color: #fff; 
+}
+ .testimonial-image {
+  border-radius: 100%;
+  width: 10% ;
+  margin: 20px;
+}
+

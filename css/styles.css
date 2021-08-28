@@ -136,4 +136,25 @@ width: 20%;
   width: 80%;
   margin: 0 auto;
 }
-
+/* Footer section */
+#footer {
+  padding: 7% 15% 1%;
+  text-align: center;
+  background-color: #fff
+}
+.footer-image {
+  font-size: 1.2rem;
+  margin: 2% 0;
+}
+.footer-image > i{
+  margin: 0 10px;
+}
+.footer-copyright {
+  color:gray;
+}
+/* Link page css */
+#gif {
+  display: flex;
+  justify-content: center;
+  height: 600px;
+}
